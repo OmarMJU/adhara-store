@@ -399,4 +399,9 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/maven,java,intellij,intellij+iml,intellij+all,eclipse,macos,windows
+# Docker image files
+# Postgres
+postgres_data/
+
+# pgAdmin
+pgadmin_data/
